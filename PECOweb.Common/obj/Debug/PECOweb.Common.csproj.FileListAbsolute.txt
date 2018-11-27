@@ -1,0 +1,12 @@
+C:\Users\thuanpham\source\repos\PECOweb\PECOweb.Common\bin\Debug\PECOweb.Common.dll
+C:\Users\thuanpham\source\repos\PECOweb\PECOweb.Common\bin\Debug\PECOweb.Common.pdb
+C:\Users\thuanpham\source\repos\PECOweb\PECOweb.Common\obj\Debug\PECOweb.Common.csprojAssemblyReference.cache
+C:\Users\thuanpham\source\repos\PECOweb\PECOweb.Common\obj\Debug\PECOweb.Common.csproj.CoreCompileInputs.cache
+C:\Users\thuanpham\source\repos\PECOweb\PECOweb.Common\obj\Debug\PECOweb.Common.dll
+C:\Users\thuanpham\source\repos\PECOweb\PECOweb.Common\obj\Debug\PECOweb.Common.pdb
+C:\Users\Administrator\source\repos\PECOweb\PECOweb.Common\bin\Debug\PECOweb.Common.dll
+C:\Users\Administrator\source\repos\PECOweb\PECOweb.Common\bin\Debug\PECOweb.Common.pdb
+C:\Users\Administrator\source\repos\PECOweb\PECOweb.Common\obj\Debug\PECOweb.Common.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\PECOweb\PECOweb.Common\obj\Debug\PECOweb.Common.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\PECOweb\PECOweb.Common\obj\Debug\PECOweb.Common.dll
+C:\Users\Administrator\source\repos\PECOweb\PECOweb.Common\obj\Debug\PECOweb.Common.pdb
